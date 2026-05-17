@@ -36,12 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats & Mindset:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EyupEfeAslan2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Eyüp Efe's GitHub Stats" />
-</div>
-
 <br/>
 
 <div align="center">
