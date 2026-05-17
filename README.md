@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:elitedevs2026@gmail.com">
+  <a href="mailto:aslaneyupefe@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-elitedevs2026%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="SENIN_LINKEDIN_LINKIN_BURAYA">
+  <a href="https://www.linkedin.com/in/ey%C3%BCp-efe-aslan-430855339/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -44,15 +44,3 @@
 - 🌐 **Cloudless P2P:** Engineering decentralized communication architectures to break server centralization.
 - 🚀 **Aerospace & Sim:** Modeling rocket sensors and HRAP data algorithms.
 - 🏗️ **Platform Dev:** Building high-performance platforms like 90 Days Challenge and Etimolojik Forum using Go and Next.js.
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EyupEfeAslan2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Eyüp Efe's GitHub Stats" />
-</div>
-
-<p align="center">
-  <i>"I don't just write code. I engineer systems, break signals, and build architectures."</i>
-</p>
