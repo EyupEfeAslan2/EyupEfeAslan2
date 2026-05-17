@@ -5,10 +5,14 @@
 
 ### 💫 About Me:
 
-🔭 **I’m currently working on:** Architecting a Multi-Agent XAI Consensus Engine (CoreMine Risk) and decentralized "Cloudless" P2P infrastructures.\n
+🔭 **I’m currently working on:** Architecting a Multi-Agent XAI Consensus Engine (CoreMine Risk) and decentralized "Cloudless" P2P infrastructures.
+
 🌱 **I’m currently learning:** Advanced RF Signal exploits (Rolling Code/MouseJack) and Aerospace Simulink modeling.
+
 👯 **I’m looking to collaborate on:** High-performance Go microservices, Hardware hacking projects, and AI-driven security pipelines.
+
 💬 **Ask me about:** Go API Gateways, CrewAI integrations, Radio Frequency (RF) security, and Fedora Linux environments.
+
 ⚡ **Fun fact:** I approach engineering with a "Miner" philosophy—continuous, patient, and disciplined execution over long periods to achieve mastery.
 
 ---
